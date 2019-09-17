@@ -12,4 +12,9 @@
 x = "Hello, world!"
 print x
 ```
-  
+
+6. No experience junior developer
+
+7. I took the courses "Fundamentals of Web Application Development", training at codacademy.com, I watched lectures cs50.
+
+8. I learn English at the same time, before that only school knowledge and self-education
